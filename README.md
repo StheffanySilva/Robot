@@ -32,7 +32,7 @@ Projeto de automação com o RobotFramework - Automação para envio do curricul
 
 2 - Digite o comando abaixo para executar o projeto
 
- >robot–d .\ReportsSpecs\trabalhe_conosco.robot
+ >robot –d .\ReportsSpecs\trabalhe_conosco.robot
 
 
 
