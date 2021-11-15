@@ -26,13 +26,13 @@ Projeto de automação com o RobotFramework - Automação para envio do curricul
 
 > pip install --upgrade robotframework-selenium2library
 
-##Como executar
+## Como executar
 
 1 - Clone o projeto do repositorio GIT.
 
 2 - Digite o comando abaixo para executar o projeto
 
-> robot–d .\ReportsSpecs\trabalhe_conosco.robot
+ >robot–d .\ReportsSpecs\trabalhe_conosco.robot
 
 
 
